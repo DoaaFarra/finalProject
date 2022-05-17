@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="Prayer_Timings">Prayer Timings</string>
+    <string name="rosary">Rosary</string>
+    <string name="Remembrances">Remembrances</string>
+    <string name="StoriesAndMiracles"> StoriesAndMiracles </string>
+</resources>

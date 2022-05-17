@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="Prayer_Timings">مَوَاقِيت الصَّلَاة</string>
+    <string name="rosary">المِسْبَحَةُ</string>
+    <string name="Remembrances">أَدْعِيَة وَأَذْكَار</string>
+    <string name="StoriesAndMiracles">قَصَص وَمُعْجِزَات</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color4"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".stories">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_margin="19dp"
+        android:background="@drawable/shape"
+        android:drawableTop="@drawable/anbiaa"
+        android:onClick="anbiaa_stories"
+        android:text="مُعْجِزَاتِ الْأَنْبِيَاءِِ"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/color1"
+        android:textSize="35sp"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_margin="19dp"
+        android:background="@drawable/shape"
+        android:drawableTop="@drawable/quraan"
+        android:gravity="center"
+        android:onClick="quraan_stories"
+        android:text="قَصَص الْقُرْآنِ الْكَرِيمِ"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/color1"
+        android:textSize="35sp"
+        android:textStyle="normal|bold" />
+</LinearLayout>
